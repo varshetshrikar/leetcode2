@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/varshetshrikar/leetcode2/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/varshetshrikar/leetcode2/tree/master/0013-roman-to-integer) |
+| [2434-design-a-number-container-system](https://github.com/varshetshrikar/leetcode2/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/varshetshrikar/leetcode2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
@@ -30,4 +31,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varshetshrikar/leetcode2/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/varshetshrikar/leetcode2/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/varshetshrikar/leetcode2/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/varshetshrikar/leetcode2/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
