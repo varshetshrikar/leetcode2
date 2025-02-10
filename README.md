@@ -26,10 +26,12 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/varshetshrikar/leetcode2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/varshetshrikar/leetcode2/tree/master/0014-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/varshetshrikar/leetcode2/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/varshetshrikar/leetcode2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/varshetshrikar/leetcode2/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/varshetshrikar/leetcode2/tree/master/2448-count-number-of-bad-pairs) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/varshetshrikar/leetcode2/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
