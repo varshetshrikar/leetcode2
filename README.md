@@ -26,10 +26,12 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/varshetshrikar/leetcode2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/varshetshrikar/leetcode2/tree/master/0014-longest-common-prefix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/varshetshrikar/leetcode2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/varshetshrikar/leetcode2/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/varshetshrikar/leetcode2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/varshetshrikar/leetcode2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/varshetshrikar/leetcode2/tree/master/3447-clear-digits) |
 ## Trie
@@ -55,5 +57,6 @@
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/varshetshrikar/leetcode2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/varshetshrikar/leetcode2/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
