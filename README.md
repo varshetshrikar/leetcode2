@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshetshrikar/leetcode2/tree/master/0001-two-sum) |
+| [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshetshrikar/leetcode2/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varshetshrikar/leetcode2/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/varshetshrikar/leetcode2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/varshetshrikar/leetcode2/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/varshetshrikar/leetcode2/tree/master/0013-roman-to-integer) |
+| [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshetshrikar/leetcode2/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
@@ -45,6 +47,7 @@
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/varshetshrikar/leetcode2/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -69,4 +72,12 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varshetshrikar/leetcode2/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
