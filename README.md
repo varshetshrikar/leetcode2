@@ -19,6 +19,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/varshetshrikar/leetcode2/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varshetshrikar/leetcode2/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/varshetshrikar/leetcode2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3548-find-the-count-of-good-integers](https://github.com/varshetshrikar/leetcode2/tree/master/3548-find-the-count-of-good-integers) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshetshrikar/leetcode2/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/varshetshrikar/leetcode2/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3548-find-the-count-of-good-integers](https://github.com/varshetshrikar/leetcode2/tree/master/3548-find-the-count-of-good-integers) |
 ## String
 |  |
 | ------- |
@@ -85,4 +87,12 @@
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/varshetshrikar/leetcode2/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/varshetshrikar/leetcode2/tree/master/3548-find-the-count-of-good-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/varshetshrikar/leetcode2/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
