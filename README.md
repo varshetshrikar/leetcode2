@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshetshrikar/leetcode2/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/varshetshrikar/leetcode2/tree/master/0073-set-matrix-zeroes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshetshrikar/leetcode2/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varshetshrikar/leetcode2/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/varshetshrikar/leetcode2/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/varshetshrikar/leetcode2/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/varshetshrikar/leetcode2/tree/master/0073-set-matrix-zeroes) |
 | [2434-design-a-number-container-system](https://github.com/varshetshrikar/leetcode2/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshetshrikar/leetcode2/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varshetshrikar/leetcode2/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/varshetshrikar/leetcode2/tree/master/3548-find-the-count-of-good-integers) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/varshetshrikar/leetcode2/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
