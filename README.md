@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/varshetshrikar/leetcode2/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/varshetshrikar/leetcode2/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/varshetshrikar/leetcode2/tree/master/0118-pascals-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshetshrikar/leetcode2/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varshetshrikar/leetcode2/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/varshetshrikar/leetcode2/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/varshetshrikar/leetcode2/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
