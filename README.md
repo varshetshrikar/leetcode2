@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshetshrikar/leetcode2/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/varshetshrikar/leetcode2/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/varshetshrikar/leetcode2/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/varshetshrikar/leetcode2/tree/master/0118-pascals-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/varshetshrikar/leetcode2/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/varshetshrikar/leetcode2/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
