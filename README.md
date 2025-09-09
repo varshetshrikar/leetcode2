@@ -10,6 +10,7 @@
 | [0118-pascals-triangle](https://github.com/varshetshrikar/leetcode2/tree/master/0118-pascals-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/varshetshrikar/leetcode2/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/varshetshrikar/leetcode2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshetshrikar/leetcode2/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varshetshrikar/leetcode2/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/varshetshrikar/leetcode2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -42,6 +43,7 @@
 | [1205-defanging-an-ip-address](https://github.com/varshetshrikar/leetcode2/tree/master/1205-defanging-an-ip-address) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varshetshrikar/leetcode2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/varshetshrikar/leetcode2/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/varshetshrikar/leetcode2/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3379-score-of-a-string](https://github.com/varshetshrikar/leetcode2/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/varshetshrikar/leetcode2/tree/master/3447-clear-digits) |
 ## Simulation
