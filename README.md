@@ -39,6 +39,7 @@
 | [0013-roman-to-integer](https://github.com/varshetshrikar/leetcode2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/varshetshrikar/leetcode2/tree/master/0014-longest-common-prefix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varshetshrikar/leetcode2/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3379-score-of-a-string](https://github.com/varshetshrikar/leetcode2/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/varshetshrikar/leetcode2/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
