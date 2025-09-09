@@ -39,6 +39,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/varshetshrikar/leetcode2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/varshetshrikar/leetcode2/tree/master/0014-longest-common-prefix) |
+| [1205-defanging-an-ip-address](https://github.com/varshetshrikar/leetcode2/tree/master/1205-defanging-an-ip-address) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varshetshrikar/leetcode2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/varshetshrikar/leetcode2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/varshetshrikar/leetcode2/tree/master/3379-score-of-a-string) |
