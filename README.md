@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/varshetshrikar/leetcode2/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/varshetshrikar/leetcode2/tree/master/0118-pascals-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/varshetshrikar/leetcode2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/varshetshrikar/leetcode2/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varshetshrikar/leetcode2/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/varshetshrikar/leetcode2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -39,12 +40,14 @@
 | [0013-roman-to-integer](https://github.com/varshetshrikar/leetcode2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/varshetshrikar/leetcode2/tree/master/0014-longest-common-prefix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varshetshrikar/leetcode2/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/varshetshrikar/leetcode2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/varshetshrikar/leetcode2/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/varshetshrikar/leetcode2/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varshetshrikar/leetcode2/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/varshetshrikar/leetcode2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/varshetshrikar/leetcode2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/varshetshrikar/leetcode2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/varshetshrikar/leetcode2/tree/master/3447-clear-digits) |
