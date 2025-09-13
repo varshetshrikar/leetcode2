@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/varshetshrikar/leetcode2/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/varshetshrikar/leetcode2/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/varshetshrikar/leetcode2/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/varshetshrikar/leetcode2/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/varshetshrikar/leetcode2/tree/master/0118-pascals-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
@@ -113,9 +114,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/varshetshrikar/leetcode2/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/varshetshrikar/leetcode2/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/varshetshrikar/leetcode2/tree/master/0031-next-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/varshetshrikar/leetcode2/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
