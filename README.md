@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/varshetshrikar/leetcode2/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/varshetshrikar/leetcode2/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/varshetshrikar/leetcode2/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/varshetshrikar/leetcode2/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/varshetshrikar/leetcode2/tree/master/0118-pascals-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/varshetshrikar/leetcode2/tree/master/1477-product-of-the-last-k-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/varshetshrikar/leetcode2/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -86,6 +87,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/varshetshrikar/leetcode2/tree/master/0075-sort-colors) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varshetshrikar/leetcode2/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Data Stream
 |  |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/varshetshrikar/leetcode2/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/varshetshrikar/leetcode2/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
